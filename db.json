@@ -2,19 +2,16 @@
     "Usuarios": [{
         "id": 1,
         "nombre": "Miguel",
-        "Contrasena": "123abc",
         "Mazo": [26, 526, 999, 828]
     },
     {
         "id": 2,
         "nombre": "David",
-        "Contrasena": "D4b1d",
         "Mazo": [1005, 521, 142, 419]
     },
     {
         "id": 3,
         "nombre": "Isabela",
-        "Contrasena": "123456789O",
         "Mazo": [260, 972, 262, 107]
     }
     ]
